@@ -6,7 +6,7 @@ var ListItem = React.createClass({
 			<li>
 				<h4>{this.props.ingredient}</h4>
 			</li>
-			);
+		);
 	}
 });
 
